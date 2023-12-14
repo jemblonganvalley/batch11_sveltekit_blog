@@ -1,0 +1,7 @@
+### DELETE
+GET http://localhost:5173/api/content
+Content-Type: application/json
+
+{
+    
+}
